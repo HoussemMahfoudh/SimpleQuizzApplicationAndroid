@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/quizSubject"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="20dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/bungee_shade"
+        android:gravity="center"
+        android:lineSpacingExtra="30sp"
+        android:text="TextView"
+        android:textAllCaps="false"
+        android:textColor="@android:color/background_dark"
+        android:textScaleX="2"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:translationX="0dp"
+        android:translationY="0dp"
+        android:typeface="monospace" />
+</LinearLayout>
